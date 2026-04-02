@@ -425,6 +425,7 @@ All series are publicly available. No API key required for CSV download.
 
 ---
 
-## License
+## Author
+Muhiddin Ahmadov
 
-MIT License — free to use, modify, and distribute with attribution.
+
