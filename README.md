@@ -371,7 +371,7 @@ One SELECT with `AVG`, `MAX`, `MIN`, `STDDEV`, `COUNT`, `MIN(date)`, `MAX(date)`
 | Unemployment | 4.35% | 5.68% | −1.33 pts |
 | Fed Rate | 3.64% | 4.52% | −0.88 pts |
 
-All three available indicators are below their 76-year averages simultaneously. The last time this configuration occurred was 2019 Q3 — one quarter before COVID.
+The macro environment in 2026 appears stable, with all key indicators below long-term averages. However, similar configurations have occurred before major economic crises, indicating that low risk conditions may mask underlying vulnerabilities.
 
 ---
 
