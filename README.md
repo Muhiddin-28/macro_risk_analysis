@@ -196,13 +196,23 @@ PERCENTILE_CONT(0.05) WITHIN GROUP (ORDER BY gdp_growth)
 
 ### What the data showed
 
-- **VaR 95% = −3.33%.** In 95 out of 100 quarters, GDP does not fall below this level.
-- **Only 4 quarters in 76 years ever breached VaR 99% (−7.94%):** 1958 Q1, 1980 Q2, 2008 Q4, 2020 Q2. One breach approximately every 19 years.
-- **COVID breached VaR 99% by 3.5x.** −28.0% vs a threshold of −7.94%. No other event approaches this ratio.
-- **Unemployment VaR 95% = 9.02%.** The 2008 peak (9.30%) barely exceeded it. COVID pushed unemployment to 13.0% — exceeding even the 99th percentile (10.12%).
-- **CPI VaR 99% = −0.63%.** Deflation has occurred historically. 2009 Q3 recorded −1.61% CPI — a genuine deflation event.
-- **The 1980s were the riskiest decade:** annual VaR 95% was −6.88% in 1980, −4.09% in 1981, −5.41% in 1982 — three consecutive years of extreme volatility.
+- **VaR 95% = −3.33%.** In 95 out of 100 quarters, GDP does not fall below this level.  
+   *This defines the typical downside boundary of normal economic fluctuations.*
 
+- **Only 4 quarters in 76 years ever breached VaR 99% (−7.94%): 1958 Q1, 1980 Q2, 2008 Q4, 2020 Q2. One breach approximately every 19 years.**  
+   *These represent rare, system-level shocks rather than normal business cycle movements.*
+
+- **COVID breached VaR 99% by 3.5x. −28.0% vs a threshold of −7.94%. No other event approaches this ratio.**  
+   *This indicates an extreme outlier event far beyond historical expectations (“black swan” level shock).*
+
+- **Unemployment VaR 95% = 9.02%. The 2008 peak (9.30%) barely exceeded it. COVID pushed unemployment to 13.0% — exceeding even the 99th percentile (10.12%).**  
+   *Labor market stress during COVID surpassed even the most severe historical benchmarks.*
+
+- **CPI VaR 99% = −0.63%. Deflation has occurred historically. 2009 Q3 recorded −1.61% CPI — a genuine deflation event.**  
+   *Although rare, deflation is a real tail risk, typically associated with demand collapse during crises.*
+
+- **The 1980s were the riskiest decade: annual VaR 95% was −6.88% in 1980, −4.09% in 1981, −5.41% in 1982 — three consecutive years of extreme volatility.**  
+   *This reflects a period of sustained macro instability driven by high inflation and aggressive monetary tightening.*
 ---
 
 ## Module 3 — Indicator correlations
