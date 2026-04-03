@@ -8,8 +8,6 @@ This project downloads data from the Federal Reserve (FRED API), stores it in Po
 
 ## What this project actually does
 
-Most "data analysis" projects stop at dashboards. This one asks questions and answers them with numbers.
-
 Every query was written to answer one specific question. The answers came from the data, not assumptions. Some confirmed textbook economics. Some contradicted it entirely.
 
 ---
