@@ -380,6 +380,7 @@ One SELECT with `AVG`, `MAX`, `MIN`, `STDDEV`, `COUNT`, `MIN(date)`, `MAX(date)`
 | Fed Rate | 3.64% | 4.52% | −0.88 pts |
 
 The macro environment in 2026 appears stable, with all key indicators below long-term averages. However, similar configurations have occurred before major economic crises, indicating that low risk conditions may mask underlying vulnerabilities.
+Low volatility breeds calm. Calm breeds complacency. Meanwhile, real risks (debt, asset valuations, geopolitical tensions) continue to accumulate beneath the surface.
 
 ---
 
